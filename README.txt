@@ -11,7 +11,7 @@ To setup:
     This short script should not require much setup; all that needs to be done is to
     modify the database path at the top of the FeatureTestingClass.py file (under init).
     Make that point to the location where you have the mini_yelp_db.db (under 
-    AuthorGenderPrediction->data.zip here).
+    AuthorGenderPrediction->dataFolder.zip here).
 
 To run:
 At the command line, type "python runFeatureTesting.py <model>", where model is either:
